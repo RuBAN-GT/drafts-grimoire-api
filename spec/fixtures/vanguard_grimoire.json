@@ -1,0 +1,76 @@
+{
+  "Response": {
+    "data": {
+      "score": 3475,
+      "cardCollection": [
+        {
+          "cardId": 101010,
+          "score": 40,
+          "points": 0,
+          "statisticCollection": [
+            {
+              "statNumber": 1,
+              "value": 100041,
+              "displayValue": "100041",
+              "rankCollection": [
+                {
+                  "rank": 1,
+                  "points": 5
+                },
+                {
+                  "rank": 2,
+                  "points": 5
+                },
+                {
+                  "rank": 3,
+                  "points": 5
+                }
+              ]
+            },
+            {
+              "statNumber": 2,
+              "value": 4196,
+              "displayValue": "4196",
+              "rankCollection": [
+                {
+                  "rank": 1,
+                  "points": 5
+                },
+                {
+                  "rank": 2,
+                  "points": 5
+                }
+              ]
+            },
+            {
+              "statNumber": 3,
+              "value": 5904,
+              "displayValue": "5904",
+              "rankCollection": [
+                {
+                  "rank": 1,
+                  "points": 5
+                },
+                {
+                  "rank": 2,
+                  "points": 5
+                },
+                {
+                  "rank": 3,
+                  "points": 5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "cardsToHide": [],
+      "bonuses": []
+    }
+  },
+  "ErrorCode": 1,
+  "ThrottleSeconds": 0,
+  "ErrorStatus": "Success",
+  "Message": "Ok",
+  "MessageData": {}
+}

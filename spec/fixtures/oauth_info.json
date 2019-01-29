@@ -1,0 +1,48 @@
+{
+  "Response": {
+    "destinyMemberships": [
+      {
+        "iconPath": "/img/theme/destiny/icons/icon_psn.png",
+        "membershipType": 2,
+        "membershipId": "4611686018455641628",
+        "displayName": "RuBAN-GT"
+      }
+    ],
+    "bungieNetUser": {
+      "membershipId": "12488384",
+      "uniqueName": "RuBAN-GT",
+      "displayName": "Dmitry Ruban",
+      "profilePicture": 70533,
+      "profileTheme": 99,
+      "userTitle": 0,
+      "successMessageFlags": "32",
+      "isDeleted": false,
+      "about": "",
+      "firstAccess": "2015-12-16T15:05:16.507Z",
+      "lastUpdate": "2016-12-22T08:00:25.842Z",
+      "context": {
+        "isFollowing": false,
+        "ignoreStatus": {
+          "isIgnored": false,
+          "ignoreFlags": 0
+        }
+      },
+      "psnDisplayName": "RuBAN-GT",
+      "xboxDisplayName": "RuBAN0V",
+      "showActivity": true,
+      "locale": "en",
+      "localeInheritDefault": true,
+      "showGroupMessaging": true,
+      "profilePicturePath": "/img/profile/avatars/bungieday_11.jpg",
+      "profileThemeName": "bungie_day15_08",
+      "userTitleDisplay": "Newbie",
+      "statusText": "3f9c2b",
+      "statusDate": "2016-12-22T08:00:25.842Z"
+    }
+  },
+  "ErrorCode": 1,
+  "ThrottleSeconds": 0,
+  "ErrorStatus": "Success",
+  "Message": "Ok",
+  "MessageData": {}
+}

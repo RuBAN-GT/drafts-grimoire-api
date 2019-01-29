@@ -1,0 +1,22 @@
+default: &default
+  adapter: postgresql
+  pool: 5
+  timeout: 5000
+  username: vagrant
+  password: vagrant
+
+development:
+  <<: *default
+  database: grimoire_api_development
+
+test:
+  <<: *default
+  database: grimoire_api_test
+
+staging:
+  <<: *default
+  database: grimoire_api_staging
+
+production:
+  <<: *default
+  database: grimoire_api_production
